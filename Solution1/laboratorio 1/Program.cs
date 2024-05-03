@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using System;
-
+﻿
 class Calculadora
 {
     static void Main()
